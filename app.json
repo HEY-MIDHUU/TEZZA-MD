@@ -1,11 +1,11 @@
 {
-  "name": "Izumi-v3",
+  "name": "TEZZA-MD",
   "description": "Izumi a Multi Device WhatsApp bot",
-  "logo": "https://i.imgur.com/Hgiamot.jpeg",
+  "logo": "https://files.catbox.moe/p6r6qd.jpeg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/sataniceypz/Izumi-v3",
+  "repository": "https://github.com/HEY-MIDHUU/TEZZA-MD",
   "website": "https://eypz-izumi.vercel.app",
-  "success_url": "https://github.com/sataniceypz/Izumi-v3",
+  "success_url": "https://github.com/HEY-MIDHUU/TEZZA-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
