@@ -1,8 +1,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## Izumi-v3 a simple Multi device Whatsapp Bot   
-### Setup 
+## IM YOUR TEZZZZZZZZ
 1. Get Session
    <br>
 <a href='https://izumi.maskser.me' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
