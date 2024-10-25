@@ -4,7 +4,7 @@
 ## IM YOUR TEZZZZZZZZ
 1. Get Session
    <br>
-<a href='[https://tezza-pair.onrender.com/pair' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
+<a href='[https://tezza-pair.onrender.com' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
  
 ### For getting session in Indian number
