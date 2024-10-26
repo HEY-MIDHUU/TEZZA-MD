@@ -4,7 +4,7 @@
 ## IM YOUR TEZZZZZZZZ
 1. Get Session
    <br>
-<a href='https://tezza-pair.onrender.com' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://qr-5g8b.onrender.com' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
  
