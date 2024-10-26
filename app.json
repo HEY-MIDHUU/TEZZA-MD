@@ -1,0 +1,87 @@
+{
+  "name": "TEZZA-MD",
+  "description": "TEZZA a Multi Device WhatsApp bot",
+  "logo": "https://files.catbox.moe/p6r6qd.jpeg",
+  "keywords": ["whatsapp"],
+  "repository": "https://github.com/HEY-MIDHUU/TEZZA-MD",
+  "website": "https://eypz-izumi.vercel.app",
+  "success_url": "https://github.com/HEY-MIDHUU/TEZZA-MD",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Enter your session id",
+      "required": true
+    },
+    "HEROKU": {
+      "description": "Don't change this",
+      "required": true,
+      "value": "true"
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Heroku app name, same as above entered",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Heroku account API key, https://dashboard.heroku.com/account",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Enter your bot name",
+      "required": false,
+      "value": "𝘛𝘌𝘡𝘡𝘈 𝘔𝘋 👄‼️"
+    },
+    "STICKER_PACKNAME": {
+      "description": "Enter your sticker pack name",
+      "required": false,
+      "value": "𝘛𝘌𝘡𝘡𝘈 𝘏𝘌𝘙𝘌 📍"
+    },
+    "AUDIO_DATA": {
+      "description": "Enter your audio data (title, author, link)",
+      "required": false,
+      "value": "enjoy this song, TEZZA MD 💁🏻‍♀️, https://i.imgur.com/9HeWJ4C.jpeg"
+    },
+    "OWNER_NAME": {
+      "description": "Enter your name",
+      "required": false,
+      "value": "𝘔𝘐𝘋𝘏𝘜𝘜𝘜"
+    },
+    "CAPTION": {
+      "description": "Enter your caption",
+      "required": false,
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "Prefix for bot",
+      "required": false,
+      "value": "."
+    },
+    "AUTHOR": {
+      "description": "Enter sticker pack author name",
+      "required": false,
+      "value": "MIDHUN"
+    },
+    "SUDO": {
+      "description": "Add Sudo number",
+      "required": false,
+      "value": "918281370025"
+    },
+    "MODE": {
+      "description": "Bot work type",
+      "required": true,
+      "value": "private"
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku-community/apt"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
