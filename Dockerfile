@@ -1,4 +1,4 @@
-FROM quay.io/eypzgod/izumi:latest
+FROM https://quay.io/heymidhuu/tezza:latest
 
 RUN git clone https://github.com/HEY-MIDHUU/TEZZA-MD /root/bot/
 
