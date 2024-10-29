@@ -1,4 +1,4 @@
-FROM quay.io/heymidhuu/tezza:latest
+FROM quay.io/lyfe00011/bot:beta
 
 RUN git clone https://github.com/HEY-MIDHUU/TEZZA-MD /root/bot/
 
